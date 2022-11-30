@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Summer and I am learning to code! I enjoy projects in Python and am expanding my skills to include Javascript and React. In the future, I am interesting in learning Solidity and Rust for Web3 Development and Flutter for mobile development. You can follow my journey on twitter at twitter.com/summercodes_.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summerzahara](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **summerzahara/summerzahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
