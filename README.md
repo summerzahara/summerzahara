@@ -1,8 +1,8 @@
 # :computer: Summer Zahara
 
-`Aspiring Self-Taught Developer`
+`Python Developer`
 
-I'm Summer and I am learning to code! I enjoy projects in Python and am expanding my skills to include Javascript and React. In the future, I am interesting in learning Solidity and Rust for Web3 Development and Flutter for mobile development. You can follow my journey on [twitter]( twitter.com/summercodes_).
+I'm Summer and I am learning about generative AI! I enjoy projects in Python and am expanding my skills to data science and deep learning.  You can follow my journey on [twitter]( twitter.com/summerlearns).
 ----------------
 
 ## Languages
