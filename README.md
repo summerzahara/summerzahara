@@ -2,7 +2,11 @@
 
 `Python Developer`
 
-I'm Summer and I am learning about generative AI! I enjoy projects in Python and am expanding my skills to data science and deep learning.  You can follow my journey on [twitter]( twitter.com/summerlearns).
+Hi, I'm Summer. I am a technical business analyst with 10 years of experience working in the data space. I started my coding journey by learning SQL and Python for data analysis, and I am now expanding my skills by learning JavaScript in order to develop my own applications.
+
+As a seasoned professional, I have honed my skills in working with data to drive business insights and solutions. My solid foundation in SQL and Python has allowed me to progress in my coding journey.
+
+Currently, I am learning JavaScript in an effort to broaden my capabilities and open up new opportunities to develop my own applications. You can follow my journey on [twitter]( twitter.com/summerlearns).
 ----------------
 
 ## Languages
