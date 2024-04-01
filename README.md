@@ -1,17 +1,18 @@
 # :computer: Summer Zahara
 
-`Python Developer`
+`Aspiring Solopreneur`
 
 Hi, I'm Summer. I am a technical business analyst with 10 years of experience working in the data space. I started my coding journey by learning SQL and Python for data analysis, and I am now expanding my skills by learning JavaScript in order to develop my own applications.
 
 As a seasoned professional, I have honed my skills in working with data to drive business insights and solutions. My solid foundation in SQL and Python has allowed me to progress in my coding journey.
 
 Currently, I am learning JavaScript in an effort to broaden my capabilities and open up new opportunities to develop my own applications. You can follow my journey on [twitter]( twitter.com/summerlearns).
+
 ----------------
 
 ## Languages
 <a href="https://github.com/summerzahara/summerzahara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerzahara&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerzahara&hide=html,text,css,scss,fortran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" />
 </a>
 
 <!--
